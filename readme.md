@@ -2,6 +2,18 @@
 
 A collaborative list of awesome proxy servers and resources. Feel free to contribute!
 
+## Index
+
+- [What is](#what-is)
+- [Types](#types)
+- [Protocols](#protocols)
+- [Proxy Server](#proxy-server-forward-proxy)
+- [Reverse Proxy](#reverse-proxy)
+- [SOCKS Proxy](#socks-proxy)
+- [HTTP/HTTPS Proxy](#httphttps-proxy-http-tunnel)
+- [FTP Proxy](#ftp-proxy)
+- [DNS Proxy](#dns-proxy)
+
 ## What is
 
 > A proxy server, also known as a "proxy" or "application-level gateway", is a computer that acts as a gateway between a local network (for example, all the computers at one company or in one building) and a larger-scale network such as the internet. [^1](https://kb.iu.edu/d/ahoo)
