@@ -80,3 +80,11 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 ### Popular Implementations of FTP Proxy
 
 - [ftp.proxy](http://www.ftpproxy.org/)
+
+## DNS Proxy
+
+[What are DNS and the DNS Proxy?](https://www.watchguard.com/training/fireware/80/dnsprox2.htm)
+
+### Popular DNS Proxy servers
+
+- [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
