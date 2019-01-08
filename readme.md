@@ -16,8 +16,7 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 ## Protocols
 
 - SOCKS Proxy
-- HTTP Proxy
-- SSL Proxy
+- HTTP/HTTPS Proxy
 - FTP Proxy
 - DNS Proxy
 - Anonymous Proxy
@@ -61,3 +60,17 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy, designed to protect your Internet traffic.
 - [Dante](https://www.inet.no/dante/) - A free SOCKS server.
 - [microsocks](https://github.com/rofl0r/microsocks) - Tiny, portable SOCKS5 server with very moderate resource usage.
+
+## HTTP/HTTPS Proxy (HTTP tunnel)
+
+> HTTP tunneling is used to create a network link between two computers in conditions of restricted network connectivity including firewalls, NATs and ACLs, among other restrictions. The tunnel is created by an intermediary called a proxy server which is usually located in a DMZ. [wikipedia](https://en.wikipedia.org/wiki/HTTP_tunnel)
+
+### HTTP Proxy protocol
+
+- [RFC 7230](https://tools.ietf.org/html/rfc7230) - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing
+
+### Popular Implementations of HTTP tunnel
+
+- [Tinyproxy](https://tinyproxy.github.io/) - lightweight http(s) proxy daemon
+- [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
+- [OpenProxy](https://github.com/trimstray/OpenProxy)
