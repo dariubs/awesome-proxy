@@ -1,5 +1,7 @@
 # Awesome Proxy
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 A collaborative list of awesome proxy servers and resources. Feel free to contribute!
 
 ## Index
