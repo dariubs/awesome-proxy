@@ -74,3 +74,9 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 - [Tinyproxy](https://tinyproxy.github.io/) - lightweight http(s) proxy daemon
 - [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
 - [OpenProxy](https://github.com/trimstray/OpenProxy)
+
+## FTP Proxy
+
+### Popular Implementations of FTP Proxy
+
+- [ftp.proxy](http://www.ftpproxy.org/)
