@@ -59,6 +59,10 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 - [Nginx](http://nginx.net/)
 - [Apache](http://wiki.apache.org/cocoon/ApacheModProxy)
 - [HAProxy](http://haproxy.1wt.eu/)
+- [Caddy](https://caddyserver.com/docs/proxy)
+- [Træfɪk](https://traefik.io/)
+- [Pound](http://www.apsis.ch/pound)
+- [relayd](https://bsd.plumbing/)
 
 ## SOCKS Proxy
 
