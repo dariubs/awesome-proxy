@@ -63,6 +63,7 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 - [Træfɪk](https://traefik.io/)
 - [Pound](http://www.apsis.ch/pound)
 - [relayd](https://bsd.plumbing/)
+- [ngork](https://github.com/inconshreveable/ngrok)
 
 ## SOCKS Proxy
 
@@ -89,9 +90,11 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 
 ### Popular Implementations of HTTP tunnel
 
+- [XX-Net](https://github.com/XX-net/XX-Net) - a web proxy tool
 - [Tinyproxy](https://tinyproxy.github.io/) - lightweight http(s) proxy daemon
 - [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
 - [OpenProxy](https://github.com/trimstray/OpenProxy)
+- [Privoxy](http://www.privoxy.org/)
 
 ## FTP Proxy
 
