@@ -57,6 +57,7 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 ### Popular Reverse Proxies
 
 - [NGINX Open Source](https://nginx.org/) / [NGINX Plus](https://nginx.com/)
+- [Envoy Proxy](https://www.envoyproxy.io/)
 - [Apache](http://wiki.apache.org/cocoon/ApacheModProxy)
 - [HAProxy](http://haproxy.1wt.eu/)
 - [Caddy](https://caddyserver.com/docs/proxy)
