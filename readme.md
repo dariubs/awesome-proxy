@@ -64,7 +64,7 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 - [Træfɪk](https://traefik.io/)
 - [Pound](http://www.apsis.ch/pound)
 - [relayd](https://bsd.plumbing/)
-- [ngork](https://github.com/inconshreveable/ngrok)
+- [ngrok](https://github.com/inconshreveable/ngrok)
 
 ## SOCKS Proxy
 
