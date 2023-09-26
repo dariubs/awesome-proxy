@@ -4,6 +4,19 @@
 
 A collaborative list of awesome proxy servers and resources. Feel free to contribute!
 
+<br><br>
+<h4 align="center">
+Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources</a>
+</h4>
+
+<p align="center">
+  <a href="https://altern.ai">
+    <img src="altern.gif" width="400" alt="Altern Artificial Intelligence Directory of Products, tools and resources ">
+  </a>
+</p>
+<br>
+
+
 ## Index
 
 - [What is](#what-is)
