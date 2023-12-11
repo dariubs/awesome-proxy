@@ -78,6 +78,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 - [Pound](http://www.apsis.ch/pound)
 - [relayd](https://bsd.plumbing/)
 - [ngrok](https://github.com/inconshreveable/ngrok)
+- [Pipy](https://flomesh.io/pipy/)
 
 ## SOCKS Proxy
 
