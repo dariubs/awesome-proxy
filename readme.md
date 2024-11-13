@@ -80,6 +80,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 - [ngrok](https://github.com/inconshreveable/ngrok)
 - [Pipy](https://flomesh.io/pipy/)
 - [YARP](https://microsoft.github.io/reverse-proxy/)
+- [Sōzu](https://www.sozu.io)
 
 ## SOCKS Proxy
 
