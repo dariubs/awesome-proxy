@@ -28,6 +28,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 - [HTTP/HTTPS Proxy](#httphttps-proxy-http-tunnel)
 - [FTP Proxy](#ftp-proxy)
 - [DNS Proxy](#dns-proxy)
+- [Residential Proxy Networks](#residential-proxy-networks)
 
 ## What is
 
@@ -129,3 +130,10 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 ### Popular DNS Proxy servers
 
 - [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
+
+## Residential Proxy Networks
+
+Residential proxy networks route traffic through real residential IP addresses, providing high anonymity and low block rates for web scraping, data collection, and geo-restricted access.
+
+- [IPLoop](https://iploop.io) - Two-sided residential proxy platform with 44,000+ active nodes across 195+ countries. HTTP, HTTPS (CONNECT), and SOCKS5 support. SDKs for Python, Node.js, and Android. Free tier available.
+- [ProxyClaw](https://proxyclaw.ai) - AI-agent proxy skill built on IPLoop. Designed for automated web scraping, data collection, and anti-block bypass. Available via pip (`iploop-sdk`), npm (`iploop`), and ClawHub.
