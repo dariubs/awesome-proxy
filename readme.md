@@ -129,3 +129,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 ### Popular DNS Proxy servers
 
 - [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
+
+## Residential Proxy Services
+
+- [IPLoop](https://iploop.io) - Residential proxy network with 2M+ IPs across 195 countries. Supports HTTP and SOCKS5 protocols with city-level geo-targeting. SDKs for [Python](https://pypi.org/project/iploop-sdk/), [Node.js](https://www.npmjs.com/package/iploop), and Java.
