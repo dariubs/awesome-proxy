@@ -95,6 +95,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 ### Popular Implementations of SOCKS server
 
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy, designed to protect your Internet traffic.
+- [BibaVPN](https://github.com/Eljaja/BibaVPN) - Self-hosted SOCKS5 and HTTP CONNECT tunnel over TLS and WebSocket for single-VPS deployments.
 - [Dante](https://www.inet.no/dante/) - A free SOCKS server.
 - [microsocks](https://github.com/rofl0r/microsocks) - Tiny, portable SOCKS5 server with very moderate resource usage.
 
