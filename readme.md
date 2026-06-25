@@ -129,3 +129,13 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 ### Popular DNS Proxy servers
 
 - [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
+
+## Proxy Tools & Checkers
+
+> Tools to scrape, test, score and manage proxies — scrapers, checkers and desktop apps.
+
+- [ProxyBroker](https://github.com/constverum/ProxyBroker) - Async finder/checker/server that pulls public proxies from many sources and checks them concurrently.
+- [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4 and SOCKS5 proxy scraper and checker with rich filtering.
+- [Unfx Proxy Checker](https://github.com/openproxyspace/unfx-proxy-checker) - Powerful proxy checker with a clean GUI, sorting and filtering by all parameters.
+- [ProxyForge](https://proxyforge.dev/) - Desktop app (Windows/macOS) that scrapes public proxy lists, live-tests every proxy on your own IP, scores each 0-100, and exports the working ones.
+- [ProxyChecker](https://github.com/faiqsohail/ProxyChecker) - Open-source multithreaded HTTP/SOCKS proxy checker with a GUI for Windows, macOS and Linux.
