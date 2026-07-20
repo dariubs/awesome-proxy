@@ -82,6 +82,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 - [Pipy](https://flomesh.io/pipy/)
 - [YARP](https://microsoft.github.io/reverse-proxy/)
 - [Sōzu](https://www.sozu.io)
+- [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform GUI desktop client for FRP (frpc) that lets non-technical users expose local services to the public internet without a public IP.
 
 ## SOCKS Proxy
 
