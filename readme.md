@@ -129,3 +129,10 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 ### Popular DNS Proxy servers
 
 - [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
+
+
+### Tools & Resources
+
+- [proxy-checker-cli](https://github.com/socks5ip/proxy-checker-cli) — Cross-platform SOCKS5/HTTP proxy checker CLI. Pure Python 3, zero dependencies.
+- [proxy-resource-hub](https://github.com/socks5ip/proxy-resource-hub) — SOCKS5 connectivity checker scripts and proxy resource navigation (Chinese).
+- [全网低价IP 导航站](https://socks5ip.github.io) — GitHub Pages navigation hub for proxy resources and tools.
