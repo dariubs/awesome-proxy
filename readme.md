@@ -5,15 +5,18 @@
 A collaborative list of awesome proxy servers and resources. Feel free to contribute!
 
 <br><br>
+
 <h4 align="center">
 Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources</a>
 </h4>
+
 
 <p align="center">
   <a href="https://altern.ai">
     <img src="altern.gif" width="400" alt="Altern Artificial Intelligence Directory of Products, tools and resources ">
   </a>
 </p>
+
 <br>
 
 
@@ -61,6 +64,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 
 - [squid](http://www.squid-cache.org/)
 - [g3proxy](https://github.com/bytedance/g3) - HTTP/Socks/SNI/Transparent Proxy support proxy chaining, protocol inspection, MITM Interception and ICAP adaptation.
+- [Altihex Forward Proxy Appliance - AWS Egress Filtering](https://aws.amazon.com/marketplace/pp/prodview-2zammestillfk) - AWS Gateway Appliance proxy available from the marketplace.
 
 ## Reverse Proxy
 
