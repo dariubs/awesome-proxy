@@ -61,6 +61,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 
 - [squid](http://www.squid-cache.org/)
 - [g3proxy](https://github.com/bytedance/g3) - HTTP/Socks/SNI/Transparent Proxy support proxy chaining, protocol inspection, MITM Interception and ICAP adaptation.
+- [ProxyNest](https://proxynest.live) - Free proxy directory with live-tested HTTP, SOCKS4 and SOCKS5 proxies, no signup; free API and per-country lists included.
 
 ## Reverse Proxy
 
