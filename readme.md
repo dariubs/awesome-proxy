@@ -97,6 +97,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy, designed to protect your Internet traffic.
 - [Dante](https://www.inet.no/dante/) - A free SOCKS server.
 - [microsocks](https://github.com/rofl0r/microsocks) - Tiny, portable SOCKS5 server with very moderate resource usage.
+- [proxy-scraper](https://github.com/maximilianfeix/proxy-scraper) - Finds free HTTP/SOCKS4/SOCKS5 proxies that pass real checks and serves them as one local rotating SOCKS5/HTTP proxy.
 
 ## HTTP/HTTPS Proxy (HTTP tunnel)
 
