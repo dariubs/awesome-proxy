@@ -26,6 +26,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 - [Reverse Proxy](#reverse-proxy)
 - [SOCKS Proxy](#socks-proxy)
 - [HTTP/HTTPS Proxy](#httphttps-proxy-http-tunnel)
+- [Residential Proxy Networks](#residential-proxy-networks)
 - [FTP Proxy](#ftp-proxy)
 - [DNS Proxy](#dns-proxy)
 
@@ -97,6 +98,12 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy, designed to protect your Internet traffic.
 - [Dante](https://www.inet.no/dante/) - A free SOCKS server.
 - [microsocks](https://github.com/rofl0r/microsocks) - Tiny, portable SOCKS5 server with very moderate resource usage.
+
+## Residential Proxy Networks
+
+> Residential proxy networks route traffic through real residential IPs rather than datacenter IPs — useful for scraping, ad verification, and geo-targeted access.
+
+- [TrueProxies](https://trueproxies.com) - Residential and datacenter proxies for scraping, data collection and automation, with country targeting, rotating and sticky sessions, and HTTP/SOCKS5 support.
 
 ## HTTP/HTTPS Proxy (HTTP tunnel)
 
