@@ -115,6 +115,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 - [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
 - [OpenProxy](https://github.com/trimstray/OpenProxy)
 - [Privoxy](http://www.privoxy.org/)
+- [Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP/HTTPS debugging proxy for intercepting, inspecting, modifying, and replaying API traffic, including AI API and Web3 JSON-RPC requests.
 
 ## FTP Proxy
 
